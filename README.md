@@ -112,14 +112,3 @@ npm run build
 cd ../server
 npm start
 ```
-
-## Security Considerations
-
-- In a production environment, use HTTPS
-- The demo application temporarily stores derived keys in localStorage for demonstration purposes
-- For a real application, implement a more robust key management solution
-- Consider adding a secure password reset mechanism that doesn't compromise encryption
-
-## License
-
-MIT 
